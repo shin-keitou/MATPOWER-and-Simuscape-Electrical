@@ -8,7 +8,7 @@ MATPOWER は、MATLAB上で動作する電力系統解析用オープンソー�
 公式サイト: [https://matpower.org/](https://matpower.org/)
 
 MATPOWERによる潮流計算結果を可視化するMATLABスクリプト：
-（ここにGitHub内のスクリプトへのリンクを貼ってください）
+（https://github.com/shin-keitou/MATPOWER-and-Simscape-Electrical/blob/main/plot_power_flow_case9.mlx）
 
 ※ スクリプトを実行するには、MATPOWERのインストールが必要です。
 
